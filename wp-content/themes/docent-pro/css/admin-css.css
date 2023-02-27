@@ -1,0 +1,5 @@
+.admin-bar.post-type-page
+    .edit-post-visual-editor
+    .block-editor-block-list__block {
+    max-width: 1140px;
+}

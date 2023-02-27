@@ -1,0 +1,367 @@
+@import url('css/bootstrap-rtl.min.css');
+
+body{
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+/* Megamenu */
+.wp-megamenu-wrap .wpmm-nav-wrap > ul {
+    left: 0;
+    top: auto;
+    right: auto;
+    float: left;
+}
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu li.wpmm-type-widget,
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu > li.wpmm_dropdown_menu ul.wp-megamenu-sub-menu, 
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu li.wpmm-type-widget .wp-megamenu-sub-menu li .wp-megamenu-sub-menu {
+    text-align: right;
+}
+.wpmm-mobile-menu a.wpmm_mobile_menu_btn {
+    right: auto;
+    left: 0;
+}
+.wpmm-nav-wrap.wpmm-main-wrap-primary i.fa.fa-bars {
+    float: left;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+span.wpmm-selected-icon {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.wp-megamenu-wrap .wpmm-nav-wrap > ul.wp-megamenu > li ul.wp-megamenu-sub-menu li.wpmm-submenu-right .wpmm-badge {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.wpmm-search-form {
+    left: 90px;
+    right: auto;
+}
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu > li.wpmm_mega_menu > ul.wp-megamenu-sub-menu {
+    width: 165%;
+}
+.client-info .person-text, .client-info .person-name, .client-info .person-designation {
+    text-align: right !important;
+}
+.client-img img {
+    margin: 0px 0px 0px 20px !important;
+    float: right !important;
+}
+.bottom-widget .docent-widgets img {
+    margin-right: 0 !important;
+    margin-left: 20px;
+}
+.bottom-widget .mc4wp-form input[type="email"] {
+    padding-left: 0;
+    padding-right: 15px;
+}
+.menu-footer-menu{
+    text-align: left;
+}
+.menu-footer-menu li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+.docent-widgets.media img {
+    margin-right: 0 !important;
+    margin-left: 15px;
+}
+.layout2 .pricing-table-price {
+    right: auto;
+    top: 20px;
+    float: left;
+    left: 20px;
+}
+.featured-wrap-quite h2 {
+    margin-right: 5px;
+}
+.common-menu {
+    text-align: left;
+}
+.docent-login-register:after {
+    right: 0;
+    left: auto;
+} 
+
+.common-menu-wrap .nav>li {
+    margin-left: 0;
+    margin-right: 32px;
+}
+.common-menu-wrap .nav>li.menu-item-has-children > a:after {
+    margin-left: 0;
+    left: -14px;
+    position: absolute;
+}
+.docent-search-wrap {
+    padding-left: 0;
+    padding-right: 15px;
+}
+.docent-pagination .page-numbers>li:first-child a, .docent-pagination .page-numbers>li:first-child {
+    border-radius: 0px 3px 3px 0px;
+}
+.docent-pagination .page-numbers>li:last-child a, .docent-pagination .page-numbers>li:last-child {
+    border-radius: 3px 0px 0px 3px;
+}
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu > li.wpmm_dropdown_menu ul.wp-megamenu-sub-menu, #wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu li.wpmm-type-widget .wp-megamenu-sub-menu li .wp-megamenu-sub-menu {
+    left: auto;
+    right: 0;
+}
+#wp-megamenu-primary .wpmm-search-form input {
+    background: #fafafa;
+}
+/* Footer */ 
+.mc4wp-form-fields button {
+    padding: 9px 16px;
+    margin-left: 0;
+    left: 0;
+    top: 0px;
+    border-radius: 3px 0px 0px 3px;
+    right: auto;
+}
+
+.mc4wp-form-fields i.fa.fa-chevron-right, .entry-summary .wrap-btn-style a.btn-style i{
+    transform: rotate(180deg);
+}
+
+/* Campaign */
+.data-author {
+    float: right;
+}
+.data-author img{
+    margin-left: 5px;
+}
+.data-author a {
+    text-align: left;
+    float: left;
+    display: inline-block;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.data-comments {
+    display: inline-block;
+    float: left;
+}
+.wpcf7-form .docent-contact input[type=text], .wpcf7-form .docent-contact input[type=email], .wpcf7-form .docent-contact textarea {
+    text-align: right;
+}
+/* Blog Page */
+.social-share-wrap {
+    text-align: left;
+    margin-top: 31px;
+} 
+.docent-post .blog-post-meta li {
+    display: inline-block;
+    float: right;
+    margin-right: 0;
+    margin-left: 12px;
+}
+.docent-single-post-author .avatar, .docent-pagination .page-numbers>li  {
+    float: right;
+}
+.docent-single-post-author .docent-author-meta-data {
+    margin-left: 0;
+    margin-right: 90px;
+}
+.blog-date-wrapper i {
+    margin-right: 0;
+    margin-left: 6px;
+}
+.social-container span {
+    margin-right: 0;
+    margin-left: 12px;
+}
+.docent-content-flex li.flex-active-slide:before {
+    margin-left: 0;
+    margin-right: -42px;
+}
+.wpcf7-form input[type=text], .wpcf7-form input[type=email], .wpcf7-form textarea {
+    text-align: right;
+}
+.common-menu-wrap {
+    text-align: left;
+}
+.common-menu-wrap .nav>li.menu-item-has-children+.online-booking-button {
+    margin-right: 20px;
+    float: left;
+}
+.common-menu-wrap .nav>li ul {
+    text-align: right;
+    right: 0px;
+}
+.docent_team .team-content-title {
+    text-align: center;
+}
+.docent_team .team-content-subtitle {
+    font-size: 14px;
+    text-align: center;
+}
+.latest-review-single-item span.latest-blog-date i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.bg-contact input[type=text], input[type="email"], textarea {
+    text-align: right;
+}
+.contact-submit input[type=submit] {
+    float: left;
+}
+.docent-google-map-wrap .map-address strong::after {
+    right: 0;
+    left: auto;
+}
+.social-share {
+    text-align: right;
+}
+ .copy-wrapper {
+    text-align: left;
+}
+.single-post .blog-post-meta {
+    text-align: right;
+}
+.entry-blog .img-author, .blog-post-meta .meta-date .img-author {
+    padding-right: 0;
+    padding-left: 10px;
+}
+.social-activities a {
+    float: right;
+    padding-left: 10px;
+    padding-right: 0;
+}
+.single-pre{
+    float: right;
+}
+.single-next{
+    float: left;
+}
+.post-navigation .single-next .next-post a {
+    padding-right: 0;
+    float: right;
+    padding-left: 8px;
+}
+.fa-long-arrow-right:before {
+    content: "\f177";
+}
+.fa-long-arrow-left:before {
+    content: "\f178";
+}
+.post-navigation .single-pre .previous-post a {
+    padding-right: 8px;
+    padding-left: 0px;
+}
+.comingsoon .mc4wp-form-fields input[type="email"] {
+    float: right;
+    border-radius: 0 4px 4px 0px;
+}
+.post-navigation .blog-post-review-content .blog-post-review-next {
+    text-align: left;
+}
+
+.blog-post-review-content .blog-post-review-pre img {
+    float: right;
+}
+.comingsoon .mc4wp-form-fields input[type=submit] {
+    border-radius: 4px 0px 0px 4px;
+    margin-right: -9px;
+}
+.post-navigation .blog-post-review-content .blog-post-review-pre {
+    float: right;
+}
+.widget-blog-posts-section .media-left, .widget-blog-posts-section .media>.pull-left {
+    padding-right: 0;
+    padding-left: 15px;
+}
+.pull-left {
+    float: right !important;
+}
+.comment-context .comment-head .comment-author {
+    padding-right: 0;
+    margin-left: 12px;
+}
+
+#sidebar #docent_social_share_widget-2 ul>li {
+    float: right;
+    padding-right: 0;
+    padding-left: 15px;
+}
+.docent-testimonial-wrap-2 .docent_testimonial .media-body {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 24px;
+}
+.docent-pagination .page-numbers li a.prev .fa-angle-left, .docent-pagination .page-numbers li a.next .fa-angle-right {
+    font-size: 16px;
+    font-weight: 600;
+    transform: rotate(180deg);
+}
+.docent-search {
+    margin-top: 7px;
+}
+.comment-body .comment-context {
+    margin-left: 0;
+    margin-right: 80px;
+}
+.comment-body .comment-context .comment-reply {
+    right: auto;
+    left: 0;
+}
+/*==================================
+* ======= Responsive Issue ===========
+=======================================*/
+@media only screen and (max-width: 992px){
+   .mobile-register {
+        text-align: left;
+    } 
+    .navbar-toggle {
+        float: left;
+        margin-left: 0;
+        margin-right: 15px;
+        margin-top: 7px;
+    }
+    #mobile-menu ul li span.menu-toggler {
+        left: 0;
+        right: auto;
+    }
+    #mobile-menu .navbar-nav {
+        width: 100%;
+    }
+    .menu-toggler .fa-angle-right:before {
+        content: "\f104";
+    }
+}
+
+@media (min-width: 768) and (max-width: 990px) { 
+    #mobile-menu ul li span.menu-toggler {
+        left: 0;
+        right: auto;
+    }
+    .mobile-register .docent-login-register {
+        float: left !important;
+    }
+    .docent-login-register ul li {
+        margin-left: 0;
+        margin-right: 25px;
+    }
+}
+@media (max-width: 767px) {
+    .wp-megamenu-wrap.wpmm-mobile-menu .wpmm-nav-wrap ul.wp-megamenu {
+        text-align: right;
+    }
+    .wpmm-mobile-menu ul.wp-megamenu li > a b {
+        float: left;
+        padding: 5px;
+    }
+    #wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu > li.wpmm_mega_menu > ul.wp-megamenu-sub-menu {
+        width: 100%;
+    }
+}
+@media (max-width: 489px) {
+    .docent-search-wrap {
+        padding-left: 0;
+    }
+    .docent-login-register ul li {
+        margin-left: 0;
+        margin-right: 25px;
+    }
+}
+

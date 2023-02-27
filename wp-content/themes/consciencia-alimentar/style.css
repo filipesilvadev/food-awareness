@@ -1,0 +1,113 @@
+/*
+Theme Name: Consciência Alimentar
+Theme URL: https://consciencia-alimentar.com/
+Description: Desenvolvido por Digital Estúdio
+Author: Filipe Oliveira
+Author URL: https://digitalestudio.com.br/
+Template: Divi
+Version: 1.0.0 
+Text Domain: Digital Estúdio
+*/
+
+/* 
+  |||||||||||||||||| GENERAL STYLES |||||||||||||||||||
+*/
+
+.subtitle-cover.sub-title {
+  display: none;
+}
+
+.container {
+  max-width: initial;
+  padding: initial;
+}
+
+.sinofix .et_pb_blurb_content {
+    max-width: 100%!important;
+}
+
+header.et-l.et-l--header {
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+}
+
+.et-db #et-boc .et-l .et_pb_row_0_tb_header{
+  width: 96%!important;
+}
+
+.btn-degrade::after{
+  content: ""!important;
+  display: block!important;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, #9bced1, #f2bbbb, #d1caff, #f4d6db);
+  margin: 0!important;
+}
+
+.sinoflex .et_pb_blurb_content{
+  display: flex!important;
+  align-items: center;
+}
+
+.sinoflex .et_pb_blurb_content .et_pb_main_blurb_image{
+  width: initial!important;
+}
+
+.sinoflex .et_pb_blurb_content .et_pb_blurb_description{
+  margin-bottom: 10px!important;
+}
+
+.flex-height .et_pb_column{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* 
+  |||||||||||||||||| HOME STYLES |||||||||||||||||||
+*/
+#feed-cursos .carousel-slider-outer .owl-item img{
+  max-height: 372px;
+  margin-bottom: 25px!important;
+}
+
+#feed-cursos .carousel-slider-outer .owl-item .woocommerce-loop-product__title{
+  color: #ffffff;
+  text-align: center!important;
+  line-height: 1.35em;
+  font-size: 24px;
+  font-weight: 600;
+  max-width: 370px;
+  margin: 0 auto!important;
+  letter-spacing: -0.75px!important;
+}
+
+#feed-cursos .carousel-slider-outer .owl-item a.button{
+  margin: 16px auto 0;
+  display: block;
+  text-align: center;
+  color: #FF914D!important;
+  text-transform: uppercase!important;
+  font-weight: 600!important;
+  letter-spacing: 1px;
+  border-bottom: 1px dotted;
+  width: 100px;
+  background-color: transparent;
+}
+
+#feed-cursos .carousel-slider-outer .owl-item .carousel-slider__product{
+  box-shadow: initial;
+}
+
+/* 
+  ||||||||||||||||||||||||||||||||||||||||||||||||||
+  ||||||||||||||||||||| MOBILE |||||||||||||||||||||
+  ||||||||||||||||||||||||||||||||||||||||||||||||||
+*/
+
+@media(max-width:768px){
+  .et-db #et-boc .et-l .et_pb_row_0_tb_header{
+    width: 100%!important;
+  }
+}

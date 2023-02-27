@@ -1,0 +1,836 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Docent Pro Core\n"
+"POT-Creation-Date: 2020-08-27 15:56+0600\n"
+"PO-Revision-Date: 2022-09-28 22:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: docent-pro-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pt_BR\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: core/Base.php:80
+msgid "Docent Pro"
+msgstr "Professor Profissional"
+
+#: core/blocks/tutorcourse/tutorcourse.php:107
+msgid "View Details"
+msgstr "Ver detalhes"
+
+#: docent-pro-core.php:89
+msgid "Post excerpt"
+msgstr "Trecho da postagem"
+
+#: docent-pro-core.php:99 docent-pro-core.php:119
+msgid "cat List"
+msgstr "Lista de gatos"
+
+#: docent-pro-core.php:109
+msgid "Course Price"
+msgstr "Preço do curso"
+
+#: docent-pro-core.php:129
+msgid "Different sized featured images"
+msgstr "Imagens em destaque de tamanhos diferentes"
+
+#: docent-pro-core.php:191
+msgid "Search Course..."
+msgstr "Pesquisar curso..."
+
+#: lib/login-modal.php:10
+msgid "Sign In"
+msgstr "Entrar"
+
+#: lib/login-modal.php:13 lib/login-modal.php:75
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: lib/login-modal.php:14 lib/login-modal.php:79
+msgid "Password"
+msgstr "Senha"
+
+#: lib/login-modal.php:17
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+#: lib/login-modal.php:19
+msgid "Login Now"
+msgstr "Conecte-se agora"
+
+#: lib/login-modal.php:25
+msgid ""
+"If you don’t already have an account click the button below to create your "
+"account."
+msgstr ""
+"Se você ainda não possui uma conta, clique no botão abaixo para criar sua "
+"conta."
+
+#: lib/login-modal.php:26
+msgid "Create New Account"
+msgstr "Criar Conta"
+
+#: lib/login-modal.php:39
+msgid "OR"
+msgstr "OU"
+
+#: lib/login-modal.php:47
+msgid "Login with Facebook"
+msgstr "Entrar com o Facebook"
+
+#: lib/login-modal.php:51
+msgid "Login with Twitter"
+msgstr "Entrar com o Twitter"
+
+#: lib/login-modal.php:60
+#, php-format
+msgid ""
+"So you can’t get in to your account? Did you %s forget your password? %s"
+msgstr ""
+"Então você não consegue acessar sua conta? Você %s esqueceu sua senha? %s"
+
+#: lib/login-modal.php:69 lib/login-modal.php:84
+msgid "Registration"
+msgstr "Cadastro"
+
+#: lib/login-modal.php:74
+msgid "Nickname"
+msgstr "Apelido"
+
+#: lib/login-modal.php:78
+msgid "Email"
+msgstr "E-mail"
+
+#: lib/login-modal.php:92
+#, php-format
+msgid "Already have an account? %s Sign In %s"
+msgstr "já tem uma conta? %s Entrar %s"
+
+#: lib/login/login.php:26
+msgid "Wrong!!! Username field is empty."
+msgstr "Errado!!! O campo Nome de usuário está vazio."
+
+#: lib/login/login.php:29
+msgid "Wrong!!! Email field is empty."
+msgstr "Errado!!! O campo de e-mail está vazio."
+
+#: lib/login/login.php:32
+msgid "Wrong!!! Password field is empty."
+msgstr "Errado!!! O campo de senha está vazio."
+
+#: lib/login/login.php:36
+msgid "Wrong!!! Username already exits."
+msgstr "Errado!!! O nome de usuário já existe."
+
+#: lib/login/login.php:39
+msgid "Wrong!!! Password must 7 charecter or more."
+msgstr "Errado!!! A senha deve ter 7 caracteres ou mais."
+
+#: lib/login/login.php:42
+msgid "Wrong!!! Email address is not correct."
+msgstr "Errado!!! O endereço de e-mail não está correto."
+
+#: lib/login/login.php:45
+msgid "Wrong!!! Email user already exits in this site."
+msgstr "Errado!!! O usuário de e-mail já existe neste site."
+
+#: lib/login/login.php:56
+msgid "Registration successful you can login now."
+msgstr "Registro bem-sucedido, você pode fazer o login agora."
+
+#: lib/login/login.php:59 lib/login/wordpress/wordpress.php:13
+msgid "Wrong username or password."
+msgstr "Nome de usuário ou senha incorretos."
+
+#: lib/login/wordpress/wordpress.php:15
+msgid "Login successful, redirecting..."
+msgstr "Login bem sucedido, redirecionando..."
+
+#: meta-box/inc/core.php:33
+msgid "Documentation"
+msgstr "Documentação"
+
+#: meta-box/inc/core.php:34
+msgid "Extensions"
+msgstr "Extensões"
+
+#: meta-box/inc/field.php:343
+msgid "+ Add more"
+msgstr "+ Adicionar mais"
+
+#: meta-box/inc/fields/autocomplete.php:20
+#: meta-box/inc/fields/autocomplete.php:81
+#: meta-box/inc/fields/autocomplete.php:93
+msgid "Delete"
+msgstr "Excluir"
+
+#: meta-box/inc/fields/button.php:32
+msgid "Click me"
+msgstr "Clique em mim"
+
+#: meta-box/inc/fields/checkbox.php:50
+msgid "Yes"
+msgstr "Sim"
+
+#: meta-box/inc/fields/checkbox.php:50
+msgid "No"
+msgstr "Não"
+
+#: meta-box/inc/fields/file-input.php:19
+msgid "Select File"
+msgstr "Selecione o arquivo"
+
+#: meta-box/inc/fields/file-input.php:38 meta-box/inc/fields/select.php:87
+msgid "Select"
+msgstr "Selecionar"
+
+#: meta-box/inc/fields/file-input.php:40
+msgid "Remove"
+msgstr "Remover"
+
+#: meta-box/inc/fields/file.php:21
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Você só pode carregar o máximo de %d arquivo"
+
+#: meta-box/inc/fields/file.php:23
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Você só pode carregar no máximo %d arquivos"
+
+#: meta-box/inc/fields/file.php:79
+msgid "Error: Cannot delete file"
+msgstr "Erro: Não é possível excluir o arquivo"
+
+#: meta-box/inc/fields/file.php:93
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Adicionar novo arquivo"
+
+#: meta-box/inc/fields/file.php:143
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Excluir"
+
+#: meta-box/inc/fields/file.php:144
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Editar"
+
+#: meta-box/inc/fields/key-value.php:126
+msgid "Key"
+msgstr "Chave"
+
+#: meta-box/inc/fields/key-value.php:127
+msgid "Value"
+msgstr "Valor"
+
+#: meta-box/inc/fields/map.php:62
+msgid "Find Address"
+msgstr "Encontrar endereço"
+
+#: meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Adicionar mídia"
+
+#: meta-box/inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr " Arquivo"
+
+#: meta-box/inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr " arquivos"
+
+#: meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr "Remover"
+
+#: meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr "Editar"
+
+#: meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr "Visão"
+
+#: meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr "Sem título"
+
+#: meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr "Selecionar arquivos"
+
+#: meta-box/inc/fields/media.php:34
+msgctxt "media"
+msgid "or"
+msgstr "ou"
+
+#: meta-box/inc/fields/media.php:35
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Solte os arquivos aqui para enviar"
+
+#: meta-box/inc/fields/oembed.php:64
+msgid "Embed HTML not available."
+msgstr "Incorporar HTML não disponível."
+
+#: meta-box/inc/fields/oembed.php:79
+msgid "Preview"
+msgstr "Visualizar"
+
+#: meta-box/inc/fields/post.php:36
+msgid "Select a post"
+msgstr "Selecione uma postagem"
+
+#: meta-box/inc/fields/post.php:41 meta-box/inc/fields/taxonomy.php:52
+#, php-format
+msgid "Select a %s"
+msgstr "Selecione um %s"
+
+#: meta-box/inc/fields/select-advanced.php:46
+msgid "Select an item"
+msgstr "selecione um item"
+
+#: meta-box/inc/fields/select.php:87
+msgid "All"
+msgstr "Tudo"
+
+#: meta-box/inc/fields/select.php:87
+msgid "None"
+msgstr "Nenhum"
+
+#: meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "Selecione um termo"
+
+#: meta-box/inc/fields/thickbox-image.php:55
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Enviar imagens"
+
+#: meta-box/inc/fields/user.php:30
+msgid "Select an user"
+msgstr "Selecione um usuário"
+
+#: meta-box/inc/validation.php:47
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Corrija os erros destacados abaixo e tente novamente."
+
+#: meta_box.php:55
+msgid "Post Quote Settings"
+msgstr "Configurações de postagem de cotação"
+
+#: meta_box.php:73
+msgid "Quote Text"
+msgstr "Texto de cotação"
+
+#: meta_box.php:76
+msgid "Write Your Quote Here"
+msgstr "Escreva sua cotação aqui"
+
+#: meta_box.php:83
+msgid "Quote Author"
+msgstr "Autor da cotação"
+
+#: meta_box.php:86
+msgid "Write Quote Author or Source"
+msgstr "Escrever Citação Autor ou Fonte"
+
+#: meta_box.php:101
+msgid "Post Link Settings"
+msgstr "Configurações de postagem de links"
+
+#: meta_box.php:119
+msgid "Link URL"
+msgstr "URL do link"
+
+#: meta_box.php:122
+msgid "Write Your Link"
+msgstr "Escreva seu link"
+
+#: meta_box.php:160
+msgid "Page Settings"
+msgstr "Configurações da página"
+
+#: meta_box.php:199
+msgid "Upload Sub Title Banner Image"
+msgstr "Carregar imagem de faixa de subtítulo"
+
+#: meta_box.php:205
+msgid "Sub Title Background Color"
+msgstr "Cor de fundo do subtítulo"
+
+#: meta_box.php:211
+msgid "Sub title"
+msgstr "Legenda"
+
+#: meta_box.php:213
+msgid "Sub Title"
+msgstr "Legenda"
+
+#: meta_box.php:231
+msgid "Post Audio Settings"
+msgstr "Postar configurações de áudio"
+
+#: meta_box.php:238
+msgid "Audio Embed Code"
+msgstr "Código de incorporação de áudio"
+
+#: meta_box.php:240
+msgid "Write Your Audio Embed Code Here"
+msgstr "Escreva seu código de incorporação de áudio aqui"
+
+#: meta_box.php:250
+msgid "Post Video Settings"
+msgstr "Configurações de postagem de vídeo"
+
+#: meta_box.php:258
+msgid "Video Embed Code/ID"
+msgstr "Código/ID de incorporação de vídeo"
+
+#: meta_box.php:261
+msgid "Write Your Vedio Embed Code/ID Here"
+msgstr "Escreva seu código/ID de incorporação do Vedio aqui"
+
+#: meta_box.php:267
+msgid "Video Durations"
+msgstr "Durações do vídeo"
+
+#: meta_box.php:273
+msgid "Select Vedio Type/Source"
+msgstr "Selecione o tipo/fonte de vídeo"
+
+#: meta_box.php:278
+msgid "Embed Code"
+msgstr "Código embutido"
+
+#: meta_box.php:279
+msgid "YouTube"
+msgstr "Youtube"
+
+#: meta_box.php:280
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: meta_box.php:295
+msgid "Post Gallery Settings"
+msgstr "Configurações da galeria de postagens"
+
+#: meta_box.php:312
+msgid "Gallery Image Upload"
+msgstr "Upload de imagens da galeria"
+
+#: meta_box.php:324
+msgid "Featured Post Settings"
+msgstr "Configurações de postagem em destaque"
+
+#: meta_box.php:331
+msgid "Featured Post"
+msgstr "Postagem em destaque"
+
+#: post-type/portfolio.php:5 post-type/portfolio.php:6
+msgctxt "Portfolio"
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: post-type/portfolio.php:7
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: post-type/portfolio.php:8
+msgid "Parent Portfolio:"
+msgstr "Portfólio pai:"
+
+#: post-type/portfolio.php:9
+msgid "All Portfolio"
+msgstr "Todo o portfólio"
+
+#: post-type/portfolio.php:10
+msgid "View Portfolio"
+msgstr "Ver portfólio"
+
+#: post-type/portfolio.php:11
+msgid "Add New Portfolio"
+msgstr "Adicionar novo portfólio"
+
+#: post-type/portfolio.php:12
+msgid "New Portfolio"
+msgstr "Novo Portfólio"
+
+#: post-type/portfolio.php:13
+msgid "Edit Portfolio"
+msgstr "Editar portfólio"
+
+#: post-type/portfolio.php:14
+msgid "Update Portfolio"
+msgstr "Atualizar portfólio"
+
+#: post-type/portfolio.php:15
+msgid "Search Portfolio"
+msgstr "Pesquisar portfólio"
+
+#: post-type/portfolio.php:16
+msgid "No article found"
+msgstr "Nenhum artigo encontrado"
+
+#: post-type/portfolio.php:17
+msgid "No article found in Trash"
+msgstr "Nenhum artigo encontrado na lixeira"
+
+#: post-type/portfolio.php:49
+#, php-format
+msgid "Portfolio updated. <a href=\"%s\">View Portfolio</a>"
+msgstr "Portfólio atualizado. <a href=\"%s\">Ver portfólio</a>"
+
+#: post-type/portfolio.php:50
+msgid "Custom field updated."
+msgstr "Campo personalizado atualizado."
+
+#: post-type/portfolio.php:51
+msgid "Custom field deleted."
+msgstr "Campo personalizado excluído."
+
+#: post-type/portfolio.php:52
+msgid "Portfolio updated."
+msgstr "Portfólio atualizado."
+
+#: post-type/portfolio.php:53
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr "Portfólio restaurado para revisão de %s"
+
+#: post-type/portfolio.php:54
+#, php-format
+msgid "Portfolio published. <a href=\"%s\">View Portfolio</a>"
+msgstr "Portfólio publicado. <a href=\"%s\">Ver portfólio</a>"
+
+#: post-type/portfolio.php:55
+msgid "Portfolio saved."
+msgstr "Portfólio salvo."
+
+#: post-type/portfolio.php:56
+#, php-format
+msgid ""
+"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+"Portfólio enviado. <a target=\"_blank\" href=\"%s\">Visualizar portfólio</a>"
+
+#: post-type/portfolio.php:57
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Portfolio</a>"
+msgstr ""
+"Portfólio agendado para: <strong>%1$s</strong> . <a target=\"_blank\" "
+"href=\"%2$s\">Visualizar portfólio</a>"
+
+#: post-type/portfolio.php:57
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: post-type/portfolio.php:58
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Portfolio</a>"
+msgstr ""
+"Rascunho do portfólio atualizado. <a target=\"_blank\" href=\"%s\">"
+"Visualizar portfólio</a>"
+
+#: post-type/portfolio.php:71
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Categorias"
+
+#: post-type/portfolio.php:72
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoria"
+
+#: post-type/portfolio.php:73
+msgid "Search Category"
+msgstr "Categoria de pesquisa"
+
+#: post-type/portfolio.php:74
+msgid "All Category"
+msgstr "Todas as categorias"
+
+#: post-type/portfolio.php:75
+msgid "Parent Category"
+msgstr "Categoria Parental"
+
+#: post-type/portfolio.php:76
+msgid "Parent Category:"
+msgstr "Categoria Parental:"
+
+#: post-type/portfolio.php:77
+msgid "Edit Category"
+msgstr "Editar categoria"
+
+#: post-type/portfolio.php:78
+msgid "Update Category"
+msgstr "Atualizar categoria"
+
+#: post-type/portfolio.php:79
+msgid "Add New Category"
+msgstr "Adicionar nova categoria"
+
+#: post-type/portfolio.php:80
+msgid "New Category Name"
+msgstr "Nome da nova categoria"
+
+#: post-type/portfolio.php:81
+msgid "Category"
+msgstr "Categoria"
+
+#: post-type/portfolio.php:105
+msgctxt "taxonomy general name"
+msgid "Portfolio Tags"
+msgstr "Tags de portfólio"
+
+#: post-type/portfolio.php:106
+msgctxt "taxonomy singular name"
+msgid "Portfolio Tag"
+msgstr "Tag do portfólio"
+
+#: post-type/portfolio.php:107
+msgid "Search Portfolio Tag"
+msgstr "Tag do portfólio de pesquisa"
+
+#: post-type/portfolio.php:108
+msgid "All Portfolio Tag"
+msgstr "Todas as Tags do Portfólio"
+
+#: post-type/portfolio.php:109
+msgid "Portfolio Parent Tag"
+msgstr "Tag principal do portfólio"
+
+#: post-type/portfolio.php:110
+msgid "Portfolio Parent Tag:"
+msgstr "Tag pai do portfólio:"
+
+#: post-type/portfolio.php:111
+msgid "Edit Portfolio Tag"
+msgstr "Editar etiqueta do portfólio"
+
+#: post-type/portfolio.php:112
+msgid "Update Portfolio Tag"
+msgstr "Atualizar etiqueta do portfólio"
+
+#: post-type/portfolio.php:113
+msgid "Add New Portfolio Tag"
+msgstr "Adicionar nova etiqueta de portfólio"
+
+#: post-type/portfolio.php:114
+msgid "New Portfolio Tag Name"
+msgstr "Nome da Nova Tag do Portfólio"
+
+#: post-type/portfolio.php:115
+msgid "Portfolio Tag"
+msgstr "Tag do portfólio"
+
+#: widgets/blog-posts.php:106
+msgid "Widget Title"
+msgstr "Título do widget"
+
+#: widgets/blog-posts.php:111
+msgid "Ordered By"
+msgstr "Ordenado por"
+
+#: widgets/blog-posts.php:137
+msgid "Count"
+msgstr "Contar"
+
+#: widgets/docent-pro-widget-link.php:13
+msgid "Docent Custom Link Widgets"
+msgstr "Widgets de links personalizados para docentes"
+
+#: widgets/docent-pro-widget-link.php:13
+msgid "This Custom Link Widgets"
+msgstr "Este widget de link personalizado"
+
+#: widgets/docent-pro-widget-link.php:37
+msgid "About Me"
+msgstr "Sobre mim"
+
+#: widgets/docent-pro-widget-link.php:44
+msgid "Course"
+msgstr "Curso"
+
+#: widgets/docent-pro-widget-link.php:51
+msgid "Contact Me"
+msgstr "Contate-me"
+
+#: widgets/docent-pro-widget-link.php:96 widgets/themeum_about_widget.php:102
+#: widgets/themeum_social_share.php:123
+msgid "Title :"
+msgstr "Título :"
+
+#: widgets/docent-pro-widget-link.php:101
+msgid "About Me URL: "
+msgstr "Sobre mim URL:"
+
+#: widgets/docent-pro-widget-link.php:106
+msgid "Courses URL: "
+msgstr "URL dos cursos:"
+
+#: widgets/docent-pro-widget-link.php:111
+msgid "Contact Me URL: "
+msgstr "Fale comigo URL:"
+
+#: widgets/image_widget.php:13
+msgid "Docent Image Ads"
+msgstr "Anúncios gráficos para docentes"
+
+#: widgets/image_widget.php:13
+msgid "This Image Ads Widgets"
+msgstr "Estes widgets de anúncios gráficos"
+
+#: widgets/image_widget.php:30
+msgid "Ads"
+msgstr "Publicidades"
+
+#: widgets/image_widget.php:66
+msgid "Title : "
+msgstr "Título :"
+
+#: widgets/image_widget.php:71
+msgid "Ads Link"
+msgstr "Links de anúncios"
+
+#: widgets/image_widget.php:75
+msgid "Ads Image URL"
+msgstr "URL da imagem do anúncio"
+
+#: widgets/image_widget.php:78 widgets/themeum_about_widget.php:110
+msgid "Upload image"
+msgstr "Enviar Imagem"
+
+#: widgets/themeum_about_widget.php:13
+msgid "Docent About Us Widgets"
+msgstr "Widgets Docente Sobre Nós"
+
+#: widgets/themeum_about_widget.php:13
+msgid "This About Us Widgets"
+msgstr "Este Sobre Nós Widgets"
+
+#: widgets/themeum_about_widget.php:34
+msgid "image"
+msgstr "imagem"
+
+#: widgets/themeum_about_widget.php:44
+msgid "Email: "
+msgstr "E-mail:"
+
+#: widgets/themeum_about_widget.php:48
+msgid "Fax: "
+msgstr "Fax:"
+
+#: widgets/themeum_about_widget.php:52
+msgid "Phone: "
+msgstr "Telefone:"
+
+#: widgets/themeum_about_widget.php:107
+msgid "About Image URL"
+msgstr "Sobre o URL da imagem"
+
+#: widgets/themeum_about_widget.php:115
+msgid "About Text :"
+msgstr "Sobre o texto:"
+
+#: widgets/themeum_about_widget.php:121
+msgid "Email ID: "
+msgstr "Identificação do email:"
+
+#: widgets/themeum_about_widget.php:126
+msgid "Fax No: "
+msgstr "Número de fax:"
+
+#: widgets/themeum_about_widget.php:131
+msgid "Phone No: "
+msgstr "Telefone não:"
+
+#: widgets/themeum_social_share.php:13
+msgid "Docent Social Share Widgets"
+msgstr "Widgets de Compartilhamento Social Docente"
+
+#: widgets/themeum_social_share.php:13
+msgid "This Social Share Widgets"
+msgstr "Este widget de compartilhamento social"
+
+#: widgets/themeum_social_share.php:128
+msgid "Facebook URL: "
+msgstr "URL Facebook:"
+
+#: widgets/themeum_social_share.php:133
+msgid "Twitter URL: "
+msgstr "URL do Twitter:"
+
+#: widgets/themeum_social_share.php:138
+msgid "Linkedin URL: "
+msgstr "URL do Linkedin:"
+
+#: widgets/themeum_social_share.php:143
+msgid "RSS URL: "
+msgstr "URL RSS:"
+
+#: widgets/themeum_social_share.php:148
+msgid "Pinterest URL: "
+msgstr "URL do Pinterest:"
+
+#: widgets/themeum_social_share.php:153
+msgid "Youtube URL: "
+msgstr "URL do Youtube:"
+
+#: widgets/themeum_social_share.php:158
+msgid "Instagram URL: "
+msgstr "URL do Instagram:"
+
+#: widgets/themeum_social_share.php:163
+msgid "Vimeo URL: "
+msgstr "URL do Vimeo:"
+
+#: widgets/themeum_social_share.php:168
+msgid "Dribble URL: "
+msgstr "URL de drible:"
+
+#. Plugin Name of the plugin/theme
+msgid "Docent Pro Core"
+msgstr "Docente Pro Core"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.themeum.com/"
+msgstr "https://www.themeum.com/"
+
+#. Description of the plugin/theme
+msgid "Docent Core Plugin"
+msgstr "Plugin Docent Core"
+
+#. Author of the plugin/theme
+msgid "Themeum.com"
+msgstr "Themeum.com"
+
+#. Author URI of the plugin/theme
+msgid "https://themeum.com/"
+msgstr "https://themeum.com/"

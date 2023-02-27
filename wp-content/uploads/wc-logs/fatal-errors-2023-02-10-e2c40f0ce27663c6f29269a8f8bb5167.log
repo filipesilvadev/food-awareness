@@ -1,0 +1,45 @@
+2023-02-10T17:12:56+00:00 CRITICAL Uncaught Error: Class 'ET_Builder_Post_Taxonomy_LayoutTag' not found in /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php:115
+Stack trace:
+#0 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(83): ET_Builder_Code_Snippets_Library->_register_cpt_and_taxonomies()
+#1 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(130): ET_Builder_Code_Snippets_Library->__construct()
+#2 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(138): ET_Builder_Code_Snippets_Library::instance()
+#3 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/code-snippets.php(38): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/food-awareness/wp-includes/class-wp-hook.php(308): et_init_code_snippets_library('')
+#5 /Applications/MAM, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php, na linha 115
+
+2023-02-10T17:13:00+00:00 CRITICAL Uncaught Error: Class 'ET_Builder_Post_Taxonomy_LayoutTag' not found in /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php:115
+Stack trace:
+#0 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(83): ET_Builder_Code_Snippets_Library->_register_cpt_and_taxonomies()
+#1 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(130): ET_Builder_Code_Snippets_Library->__construct()
+#2 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(138): ET_Builder_Code_Snippets_Library::instance()
+#3 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/code-snippets.php(38): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/food-awareness/wp-includes/class-wp-hook.php(308): et_init_code_snippets_library('')
+#5 /Applications/MAM, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php, na linha 115
+
+2023-02-10T17:13:00+00:00 CRITICAL Uncaught Error: Class 'ET_Builder_Post_Taxonomy_LayoutTag' not found in /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php:115
+Stack trace:
+#0 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(83): ET_Builder_Code_Snippets_Library->_register_cpt_and_taxonomies()
+#1 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(130): ET_Builder_Code_Snippets_Library->__construct()
+#2 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(138): ET_Builder_Code_Snippets_Library::instance()
+#3 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/code-snippets.php(38): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/food-awareness/wp-includes/class-wp-hook.php(308): et_init_code_snippets_library('')
+#5 /Applications/MAM, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php, na linha 115
+
+2023-02-10T17:13:29+00:00 CRITICAL Uncaught Error: Class 'ET_Builder_Post_Taxonomy_LayoutCategory' not found in /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php:114
+Stack trace:
+#0 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(83): ET_Builder_Code_Snippets_Library->_register_cpt_and_taxonomies()
+#1 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(130): ET_Builder_Code_Snippets_Library->__construct()
+#2 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(138): ET_Builder_Code_Snippets_Library::instance()
+#3 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/code-snippets.php(38): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/food-awareness/wp-includes/class-wp-hook.php(308): et_init_code_snippets_library('')
+#5 /Application, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php, na linha 114
+
+2023-02-10T17:13:42+00:00 CRITICAL Uncaught Error: Class 'ET_Builder_Post_Taxonomy_LayoutCategory' not found in /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php:114
+Stack trace:
+#0 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(83): ET_Builder_Code_Snippets_Library->_register_cpt_and_taxonomies()
+#1 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(130): ET_Builder_Code_Snippets_Library->__construct()
+#2 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php(138): ET_Builder_Code_Snippets_Library::instance()
+#3 /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/code-snippets.php(38): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/food-awareness/wp-includes/class-wp-hook.php(308): et_init_code_snippets_library('')
+#5 /Application, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/divi-builder/core/code-snippets/CodeSnippetsLibrary.php, na linha 114
+

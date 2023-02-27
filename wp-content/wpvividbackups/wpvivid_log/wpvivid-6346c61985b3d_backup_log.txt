@@ -1,0 +1,129 @@
+Log created: 2022-10-12 13:50:17
+Type: backup
+[2022-10-12 13:50:19][notice]Start backing up.
+[2022-10-12 13:50:19][notice]server info fcgi:Off max execution time: 900 wp version:6.0.2 php version:7.4.29 db version:5.6.41 php ini:safe_mode: memory_limit:256M memory_get_usage:32,14 MB memory_get_peak_usage:32,26 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-10-12 13:50:19][notice]Prepare to backup backup_db files.
+[2022-10-12 13:50:19][notice]Start exporting database.
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_actionscheduler_actions
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_actionscheduler_claims
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_actionscheduler_groups
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_actionscheduler_logs
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_commentmeta
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_comments
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_links
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_options
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_discount_codes
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_discount_codes_levels
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_discount_codes_uses
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_membership_levelmeta
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_membership_levels
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_membership_ordermeta
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_membership_orders
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_memberships_categories
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_memberships_pages
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_pmpro_memberships_users
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_postmeta
+[2022-10-12 13:50:19][notice]Preparing to dump table wph5_posts
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_social_users
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_term_relationships
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_term_taxonomy
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_termmeta
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_terms
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_earnings
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_email_queue
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_quiz_attempt_answers
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_quiz_attempts
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_quiz_question_answers
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_quiz_questions
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_tutor_withdraws
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_usermeta
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_users
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_admin_note_actions
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_admin_notes
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_category_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_customer_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_download_log
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_order_coupon_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_order_product_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_order_stats
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_order_tax_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_product_attributes_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_product_download_directories
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_product_meta_lookup
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_rate_limits
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_reserved_stock
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_tax_rate_classes
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_wc_webhooks
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_api_keys
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_attribute_taxonomies
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_downloadable_product_permissions
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_log
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_order_itemmeta
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_order_items
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_payment_tokenmeta
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_payment_tokens
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_sessions
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_shipping_zone_locations
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_shipping_zone_methods
+[2022-10-12 13:50:20][notice]Preparing to dump table wph5_woocommerce_shipping_zones
+[2022-10-12 13:50:21][notice]Preparing to dump table wph5_woocommerce_tax_rate_locations
+[2022-10-12 13:50:21][notice]Preparing to dump table wph5_woocommerce_tax_rates
+[2022-10-12 13:50:21][notice]Preparing to dump table wph5_wpvivid_options
+[2022-10-12 13:50:21][notice]Exporting database finished.
+[2022-10-12 13:50:21][notice]Start compressing backup_db
+[2022-10-12 13:50:21][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_db.zip
+[2022-10-12 13:50:21][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_db.zip, filesize: 4,20 MB
+[2022-10-12 13:50:21][notice]Compressing backup_db completed
+[2022-10-12 13:50:21][notice]Backing up backup_db completed.
+[2022-10-12 13:50:21][notice]Prepare to backup backup_themes files.
+[2022-10-12 13:50:21][notice]File number: 572
+[2022-10-12 13:50:21][notice]Start compressing backup_themes
+[2022-10-12 13:50:21][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_themes.zip
+[2022-10-12 13:50:22][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_themes.zip, filesize: 18,46 MB
+[2022-10-12 13:50:22][notice]Compressing backup_themes completed
+[2022-10-12 13:50:22][notice]Backing up backup_themes completed.
+[2022-10-12 13:50:22][notice]Prepare to backup backup_plugin files.
+[2022-10-12 13:50:22][notice]File number: 11099
+[2022-10-12 13:50:22][notice]Start compressing backup_plugin
+[2022-10-12 13:50:23][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_plugin.zip
+[2022-10-12 13:50:35][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_plugin.zip, filesize: 145,36 MB
+[2022-10-12 13:50:35][notice]Compressing backup_plugin completed
+[2022-10-12 13:50:35][notice]Backing up backup_plugin completed.
+[2022-10-12 13:50:35][notice]Prepare to backup backup_uploads files.
+[2022-10-12 13:50:35][notice]File number: 776
+[2022-10-12 13:50:35][notice]Start compressing backup_uploads
+[2022-10-12 13:50:35][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_uploads.zip
+[2022-10-12 13:50:36][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_uploads.zip, filesize: 41,90 MB
+[2022-10-12 13:50:36][notice]Compressing backup_uploads completed
+[2022-10-12 13:50:36][notice]Backing up backup_uploads completed.
+[2022-10-12 13:50:36][notice]Prepare to backup backup_content files.
+[2022-10-12 13:50:36][notice]File number: 380
+[2022-10-12 13:50:36][notice]Start compressing backup_content
+[2022-10-12 13:50:36][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_content.zip
+[2022-10-12 13:50:36][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_content.zip, filesize: 13,40 MB
+[2022-10-12 13:50:36][notice]Compressing backup_content completed
+[2022-10-12 13:50:36][notice]Backing up backup_content completed.
+[2022-10-12 13:50:37][notice]Prepare to backup backup_core files.
+[2022-10-12 13:50:37][notice]File number: 2479
+[2022-10-12 13:50:37][notice]Start compressing backup_core
+[2022-10-12 13:50:37][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_core.zip
+[2022-10-12 13:50:39][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_core.zip, filesize: 47,58 MB
+[2022-10-12 13:50:39][notice]Compressing backup_core completed
+[2022-10-12 13:50:39][notice]Backing up backup_core completed.
+[2022-10-12 13:50:39][notice]Prepare to backup backup_merge files.
+[2022-10-12 13:50:39][notice]File number: 6
+[2022-10-12 13:50:39][notice]Start compressing backup_merge
+[2022-10-12 13:50:39][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_all.part001.zip
+[2022-10-12 13:50:51][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_all.part001.zip, filesize: 56,70 MB
+[2022-10-12 13:50:51][notice]Cleaned up file, filename: /home2/joaomo28/www.consciencia-alimentar.com/wp-content/wpvividbackups/consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_plugin.zip
+[2022-10-12 13:50:51][notice]Cleaned up file, filename: /home2/joaomo28/www.consciencia-alimentar.com/wp-content/wpvividbackups/consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_core.zip
+[2022-10-12 13:50:51][notice]Prepare to zip files. file: consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_all.part002.zip
+[2022-10-12 13:50:55][notice]Adding zip files completed.consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_all.part002.zip, filesize: 69,99 MB
+[2022-10-12 13:50:55][notice]Cleaned up file, filename: /home2/joaomo28/www.consciencia-alimentar.com/wp-content/wpvividbackups/consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_uploads.zip
+[2022-10-12 13:50:55][notice]Cleaned up file, filename: /home2/joaomo28/www.consciencia-alimentar.com/wp-content/wpvividbackups/consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_themes.zip
+[2022-10-12 13:50:55][notice]Cleaned up file, filename: /home2/joaomo28/www.consciencia-alimentar.com/wp-content/wpvividbackups/consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_content.zip
+[2022-10-12 13:50:55][notice]Cleaned up file, filename: /home2/joaomo28/www.consciencia-alimentar.com/wp-content/wpvividbackups/consciencia-alimentar.com_wpvivid-6346c61985b3d_2022-10-12-13-50_backup_db.zip
+[2022-10-12 13:50:55][notice]Compressing backup_merge completed
+[2022-10-12 13:50:55][notice]Backing up backup_merge completed.
+[2022-10-12 13:50:55][notice]Backup completed.
+[2022-10-12 13:50:55][notice]Backup succeeded.

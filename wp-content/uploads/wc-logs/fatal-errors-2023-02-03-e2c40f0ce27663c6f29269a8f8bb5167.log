@@ -1,0 +1,6 @@
+2023-02-03T16:18:40+00:00 CRITICAL Declaration of Automattic\WooCommerce\GoogleListingsAndAds\Container::has($id) must be compatible with Psr\Container\ContainerInterface::has(string $id): bool, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/google-listings-and-ads/src/Container.php, na linha 104
+
+2023-02-03T16:18:45+00:00 CRITICAL Declaration of Automattic\WooCommerce\GoogleListingsAndAds\Container::has($id) must be compatible with Psr\Container\ContainerInterface::has(string $id): bool, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/google-listings-and-ads/src/Container.php, na linha 104
+
+2023-02-03T16:18:49+00:00 CRITICAL Declaration of Automattic\WooCommerce\GoogleListingsAndAds\Container::has($id) must be compatible with Psr\Container\ContainerInterface::has(string $id): bool, em /Applications/MAMP/htdocs/food-awareness/wp-content/plugins/google-listings-and-ads/src/Container.php, na linha 104
+
